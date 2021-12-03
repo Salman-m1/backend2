@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-post
+Content-Type: application/json
+
+{
+"BName":"C programming",
+"SName":"Sundari",
+"Due":"29-10-2021"
+}
